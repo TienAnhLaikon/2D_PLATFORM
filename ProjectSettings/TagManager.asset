@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyHitBox
+  - PlayerHitBox
+  - FlyingEnemy
+  - Boss
+  - End Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collision
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerHitBox
+  - EnemyHitBox
+  - DetectionRange
+  - Effect
+  - BossDefeatedLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1255324357
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3166055283
+    locked: 0
+  - name: Effect
+    uniqueID: 1466387325
+    locked: 0
